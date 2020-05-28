@@ -19,6 +19,11 @@ woah! the connection has been established....
 NOTE:you can check all the column and table names in the corresponsing classes
 IMPORTANT NOTE: for preventing from error you have to make empid column as primary key in sql server......
 
+NOTE:i have also used jquery,bootstrap and some other files that are in following folders (that might not created by default if you have not installed these libraries in visual studio), if you have not these folders in your project directory then first you have to instal these libraries in visual studio.
+1)Scripts
+2)fonts
+3)Content
+
 
 
 
