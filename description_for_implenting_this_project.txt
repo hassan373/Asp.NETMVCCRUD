@@ -1,0 +1,24 @@
+i have used Entity Framework for this mvc project and connected it with sql server for database connectivity, for that click model and add new item and click Data=>ADO.NET Entity Data Model ,
+and then give it name as DBModels,
+
+click Add,
+click EF Designer from data... and the press Next,
+then click new connection and select sql server(which ever version you have),
+and the give server name (in my case it was .),
+
+after giving server name you have a list of data bases (in my case it was "MvcCRUDDB"),
+then click ok,
+now a window appears with default file name as "MvcCRUDDBEntities", replace it with "DBModel1",
+and click next....
+woah! the connection has been established....
+
+
+
+
+
+NOTE:you can check all the column and table names in the corresponsing classes
+IMPORTANT NOTE: for preventing from error you have to make empid column as primary key in sql server......
+
+
+
+
